@@ -90,9 +90,12 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/bootstrap/bootstrap.min.css",
               "src/styles.less"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/bootstrap/bootstrap.bundle.min.js"
+            ]
           }
         }
       }
